@@ -14,6 +14,7 @@ $learn [] = "Build something awesome";//Add value to the end of the array
 array_push($learn, 'Functions', 'Forms', 'Objects');//Add values to the end of the array
 array_unshift($learn, 'HTML', 'CSS');//Add elements to the beginning of array
 asort($learn);//Sort array by value without changing the key
+arsort($learn);//Sort by value maintian key association
 sort($learn);//Re-index array keys after sorting
 rsort($learn);//Sort array values in reverse order
 shuffle($learn);//Randomly sort values
