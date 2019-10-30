@@ -1,9 +1,9 @@
 <?php
 /* 
-   !Arrays Basics!
-   Seperate blocks of code.
-   Move the comment arrows
-   in order review by section.
+    !Arrays Basics!
+    Move comment arrows
+    to isolate and 
+    manipulate code blocks.
 */
 
 
