@@ -1,6 +1,6 @@
 <?php
 /* 
-    !Arrays Basics!
+    !Array Basics!
     Move comment arrows
     to isolate and 
     manipulate code blocks.
